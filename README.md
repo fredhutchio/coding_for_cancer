@@ -36,5 +36,5 @@ from fredhutch.io for more information about how these data were compiled.
 
 Please see the [instructor's guide](instructors.md)
 for information on teaching these materials
-and the [contributing guide](contributing)
+and the [contributing guide](CONTRIBUTING.md)
 for assistance in developing or modifying these materials.
