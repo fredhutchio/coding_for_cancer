@@ -13,8 +13,6 @@ General objectives:
   - developing computational thinking
   - understanding the process of biomedical research
   - coding with R
-- Questions these materials will help participants answer include:
-  - What is research? How does biomedical research work?
 
 Target audience:
 - assumes no prior coding experience
